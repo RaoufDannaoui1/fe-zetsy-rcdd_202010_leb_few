@@ -19,6 +19,7 @@ body {
 
 /* Write all remaining styles here */
 .wrapper{
+	display: inline;
 	color: gray;
 }
 .pic-1{
