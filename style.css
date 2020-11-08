@@ -34,7 +34,7 @@ height: 800px;
 .left-right{
 	display: inline;
 	margin: 0;
-	width: 100px;
+	width: 20%;
 	height: 800px;
 	background: red;
 }
