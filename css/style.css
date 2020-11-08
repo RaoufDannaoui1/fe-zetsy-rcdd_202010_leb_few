@@ -26,6 +26,7 @@ body {
 	width: 100px;
 }
 .left-right{
+	display: inline;
 	width: 20%;
 	background-color:  red;
 }
