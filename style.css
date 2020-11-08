@@ -19,6 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
+hr{
+	margin: 4px 0px;
+}
+h1{
+	color: gray;
+}
 .main{
 width: 700px;
 height: 800px;
