@@ -32,7 +32,7 @@ body {
 }
 .left-right{
 	display: inline;
-	width: 800px;
+	width: 500px;
 	height: 100px;
-	background:  red;
+	background: red;
 }
