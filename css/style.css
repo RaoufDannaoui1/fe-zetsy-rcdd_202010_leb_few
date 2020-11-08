@@ -18,6 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+	color: gray;
+}
 .pic-1{
 	width: 100px;
 	height: 100px;
