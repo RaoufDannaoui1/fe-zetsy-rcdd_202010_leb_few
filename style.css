@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 .main{
 width: 700px;
-
+height: 800px;
 }
 .pic-1{
 	width: 100px;
@@ -33,6 +33,7 @@ width: 700px;
 }
 .left-right{
 	display: inline;
+	margin: 0;
 	width: 100px;
 	height: 800px;
 	background: red;
