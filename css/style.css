@@ -18,9 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
-.wrapper{
-	display: inline;
-	color: gray;
+.main{
+	
 }
 .pic-1{
 	width: 100px;
