@@ -29,7 +29,7 @@ h1{
 
 .main{
 width: 700px;
-height: 800px;
+height: auto;
 margin: 20px;
 
 }
