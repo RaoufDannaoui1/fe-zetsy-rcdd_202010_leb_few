@@ -18,7 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-h1{
+.wrapper{
 	color: gray;
 }
 .pic-1{
