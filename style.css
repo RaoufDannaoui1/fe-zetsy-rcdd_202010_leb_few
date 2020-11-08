@@ -50,3 +50,14 @@ margin: 20px;
 	height: 800px;
 	background: red;
 }
+.part3{
+	display: flex;
+}
+.box1,
+.box2,
+.box3,
+.box4{
+	width: 150px;
+	height: 100px;
+	margin: 5px;
+}
