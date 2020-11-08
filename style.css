@@ -72,5 +72,5 @@ margin: 20px;
 footer{
 	margin-top: 5px;
  	font-size: 12px;
-	align-self: flex-end;
+	justify-content:  flex-end;
 }
