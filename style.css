@@ -47,7 +47,7 @@ margin: 20px;
 	display: inline;
 	margin: 0;
 	width: 15%;
-	height: 100%;
+	height: auto;
 	background: red;
 }
 .part3{
